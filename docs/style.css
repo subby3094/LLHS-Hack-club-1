@@ -1,1 +1,11 @@
+html{
+  text-align: center
+  background-color: green;
+  color: white;
+}
+
+.header{
+  background-color: olive;
+  width: 85%;
+}
 
